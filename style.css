@@ -10,6 +10,7 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 72px;
+    padding-top: 16px;
 }
 
 ul {
@@ -52,7 +53,6 @@ button {
    width: 100px;
    border: none;
    padding: 8px 0px;
-   margin-top: 16px;
 }
 
 .first {
@@ -103,4 +103,46 @@ p {
 .wide {
     width: 480px;
     height:fit-content;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 144px 256px;
+}
+
+i {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.credit {
+    text-align: right;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.call {
+    background: #3882F6;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    margin: 144px;
+    justify-content: space-around;
+    padding: 48px 128px;
+}
+
+.white {
+    border: 4px solid #f9faf8;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+p {
+    text-align: left;
+}
+
+.message {
+    width: 600px;
 }
