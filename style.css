@@ -96,7 +96,6 @@ h3 {
 }
 
 p {
-    text-align: center;
     max-width: fit-content;
 }
 
@@ -118,7 +117,6 @@ i {
 }
 
 .credit {
-    text-align: right;
     font-weight: bold;
     font-size: 24px;
 }
@@ -139,9 +137,7 @@ i {
     height: fit-content;
 }
 
-p {
-    text-align: left;
-}
+
 
 .message {
     width: 600px;
